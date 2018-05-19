@@ -34,7 +34,7 @@ h1 {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 495px;
+    width: 520px;
     float: left;
     margin-top: 7px;
    
@@ -89,7 +89,7 @@ p{
 #aside{
     background-color: white;
     color: grey;
-    margin-left: 540px;
+    margin-left: 560px;
     margin-right: 20px;
     text-align: center;
     padding: 40px;
@@ -97,6 +97,7 @@ p{
     margin-top: 27px;
     
 }
+
 
 
 
